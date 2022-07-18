@@ -3,7 +3,12 @@
     "classrooms": [
         {
             "name": "19380377-2022-training-comp-on-open-source-os",
-            "assignments": ["lab0-1-run-os2", "lab1-os3", "lab2-os4"],
+            "assignments": ["lab0-0-setup-env-run-os1", "lab0-1-run-os2", "lab1-os3", "lab2-os4"],
+            "studentBlacklist": []
+        },
+        {
+            "name": "19380377-learning-rust",
+            "assignments": ["learn_rust_rustlings"],
             "studentBlacklist": []
         }
     ],
