@@ -1,11 +1,14 @@
 {
     "org": "LearningOS",
+    "updateStep": 1,
     "classrooms": [
         {
             "name": "19380377-2022-training-comp-on-open-source-os",
             "assignments": ["lab0-0-setup-env-run-os1", "lab0-1-run-os2", "lab1-os3", "lab2-os4", "lab3-os5", "lab4-os6", "lab5-os8"],
-            "updateStep": 1,
-            "studentBlacklist": []
+        },
+        {
+            "name": "19380377-learning-rust",
+            "assignments": ["learn_rust_rustlings"],
         }
     ],
     "website": {
